@@ -1,0 +1,6 @@
+{
+  "name": "FF MARKET PRO",
+  "description": "Marketplace profesional y escalable de cuentas, diamantes, recargas y ofertas de Free Fire",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
